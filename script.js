@@ -54,12 +54,15 @@ The sunshine breaking my morning dew.
 With every breath, I think of you —  
 Mercy, my world begins and ends with you. 💞`,
 
-  message: `💬 Hey my love,
+  message: `💬 Hi Kasichana kangu,
 
 You mean more to me than words could ever say.  
 You're my calm, my fire, my favorite reason to smile.  
 Thank you for choosing me, for loving me truly.  
-I’ll love you more with each new sunrise. 💖`
+I’ll love you more with each new sunrise. 💖
+In whatever we go though may we always remeber we will come back storng and win it back together.
+Wanja never ever doubt me or give up on me.
+I love you`
 };
 
 // Buttons
@@ -85,3 +88,4 @@ playBtn.addEventListener("click", () => {
     playBtn.textContent = "🔈";
   }
 });
+
